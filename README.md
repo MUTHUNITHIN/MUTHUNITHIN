@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @MUTHUNITHIN
 - 👀 I’m interested in electronics
-- 🌱 I’m currently learning KEC
+- 🌱 I’m currently learning ECE  at  KEC
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me muthunithin234@gmail.com
+- 😄 Pronouns: He/Him
 
 <!---
 MUTHUNITHIN/MUTHUNITHIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
