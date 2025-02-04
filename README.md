@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @MUTHUNITHIN
-- 👀 I’m interested in electronics
+- 👔 [LinkedIn](https://www.linkedin.com/in/muthu-nithin/)
+- ✉️ [Devfolio](https://devfolio.co/@muthu_nithin_)
+- 👀 I’m interested in embedded systems, VLSI 
 - 🌱 I’m currently learning ECE  at  KEC
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on VLSI , Embedded and IoT , Edge AI related fields
 - 📫 How to reach me muthunithin234@gmail.com
 - 😄 Pronouns: He/Him
 
